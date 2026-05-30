@@ -3,12 +3,6 @@
 WEBSITE_FILE="websites.txt"
 SCREENSHOT_DIR="screenshots"
 
-SMTP_SERVER="smtp.gmail.com"
-SMTP_PORT="587"
-SMTP_USER="nuwanovitigala@gmail.com"
-SMTP_PASS="zwvxmkcboebmvpjx"
-
-TO_EMAIL="receiver@gmail.com"
 
 mkdir -p $SCREENSHOT_DIR
 
